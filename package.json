@@ -12,6 +12,6 @@
   "dependencies": {
     "@libsql/client": "^0.14.0",
     "discord.js": "^14.16.3",
-    "drizzle-orm": "^0.37.0"
+    "drizzle-orm": "^0.44.7"
   }
 }
